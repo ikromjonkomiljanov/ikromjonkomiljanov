@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0f0f,50:1a1a40,100:00c6ff&text=Ikromjon%20Komiljanov&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=Full-Stack%20Developer&descAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0f0f,50:1a1a40,100:00c6ff&text=Ikromjon%20Komiljanov&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=Full-Stack%20Developer%20|%20ReactJS%20|%20NodeJS&descAlignY=60" />
 
 </div>
 
@@ -33,17 +33,19 @@
 
 </div>
 
+
+<!--
 ---
-
 ## 🌌 Creative Section
-
 <div align="center">
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
-
 ---
+-->
+
+
 
 
 
