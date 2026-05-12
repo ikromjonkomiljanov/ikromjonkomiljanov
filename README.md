@@ -1,66 +1,80 @@
-<h1 align="center">Hey 👋, I'm Ikromjon Komiljanov</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+MongoDB;I+build+scalable+web+apps" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0f0f,50:1a1a40,100:00c6ff&text=Ikromjon%20Komiljanov&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=Full-Stack%20Developer&descAlignY=60" />
 
-<p align="center">
-  Full-Stack Developer from Uzbekistan 🇺🇿  
-  <br/>
-  I design, build and ship real-world web applications
-</p>
+</div>
 
----
+<h3 align="center">
+  🚀 Building modern & scalable web applications
+</h3>
 
-<p align="center">
-  <a href="https://github.com/ikromjonkomiljanov">
-    <img src="https://img.shields.io/github/followers/ikromjonkomiljanov?style=for-the-badge&color=0e75b6"/>
-  </a>
+<br/>
 
-  <a href="https://instagram.com/ikromjon_komiljanov">
-    <img src="https://img.shields.io/badge/Instagram-0e75b6?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRvNnM3dW9nMHBhZXNrbXZ5Y2Q2c2x0djFpcTd0cW04bWRhZWFxNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
----
+## 💫 About Me
 
-# 💫 About Me
+- 💻 Full-Stack Developer from Uzbekistan
+- ⚛️ Working mainly with React & Node.js
+- 🧠 Learning scalable backend architecture
+- 🎯 Focused on clean UI & responsive design
+- 🚀 Building real-world projects step by step
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-- 🚀 I build real-world full-stack applications  
-- ⚛️ React + Node.js + MongoDB ecosystem  
-- 🛒 Focused on E-Commerce & scalable systems  
-- 📈 Learning backend architecture & system design  
-- 🎯 Goal: Become a global software engineer  
+<br/>
+<br/>
 
 ---
 
-# 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,postgresql,git,github&theme=dark" />
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,nodejs,express,mongodb,postgresql,git,github,vscode&perline=7" />
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikromjonkomiljanov&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikromjonkomiljanov&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
 
 ---
 
-# ⚡ Developer Mindset
+## 🌌 Creative Section
 
-```js
-while (!success) {
-  build();
-  learn();
-  improve();
-}
+<div align="center">
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://ikromjon-komiljanov.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://t.me/ikromjonkomiljanov" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/ikromjon_komiljanov" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://facebook.com/ikromjonkomiljanov" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0f0f,50:1a1a40,100:00c6ff" />
+
+</div>
