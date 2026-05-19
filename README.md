@@ -19,8 +19,8 @@
 - 🧠 Learning scalable backend architecture
 - 🎯 Focused on clean UI & responsive design
 - 🚀 Building real-world projects step by step
+- 💼 Ready to get hired & contribute to real projects
 
-<br/>
 <br/>
 
 ---
